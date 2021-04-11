@@ -33,8 +33,8 @@ Team Name: PLUTO
 ## Steps to install
 
 ```dart
-https://github.com/shubh0125/Technica
-cd Technica
+git clone https://github.com/manavparikh01/CovixApp.git
+cd CovixApp
 flutter run
 ```
 
